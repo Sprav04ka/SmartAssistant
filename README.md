@@ -37,7 +37,7 @@
 Установите зависимости, указанные в `requirements.txt`:
 ```bash
 pip install -r requirements.txt
-
+```
 ## Настройка API-ключей
 
 1. **NewsAPI**  
