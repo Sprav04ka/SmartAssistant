@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ```python
 api_key_news = "API_KEY"
 api_key_openai = "API_KEY"
-
+```
 ## ⚙️ Как использовать
 
 1. Запустите основной код.
